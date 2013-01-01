@@ -1,4 +1,4 @@
-WAC--RoflCopter
+WAC-RoflCopter
 ===============
 
 A roflcopter made for WAC by Dr. Matt and friends.
