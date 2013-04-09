@@ -1,0 +1,11 @@
+{
+	"title"		:	"WAC RoflCopter",
+	"type"		:	"vehicle",
+	"tags"		:	[ "fun", "realism" ],
+	"ignore"	:
+	[
+		"addon.txt",
+		"*.md",
+		"*.git*"
+	]
+}
