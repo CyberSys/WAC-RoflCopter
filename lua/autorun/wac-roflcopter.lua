@@ -34,3 +34,19 @@ end)
 if not found then return end
 
 if wac and wac.aircraft then wac.aircraft.spawnCategoryU = "WAC Unbreakable" end
+
+sound.Add(
+{
+	name = "RoflCopter.External",
+	channel = CHAN_STATIC,
+	soundlevel = 120,
+	sound = "WAC/roflcopter/external.wav"
+})
+
+sound.Add(
+{
+	name = "RoflCopter.Internal",
+	channel = CHAN_STATIC,
+	soundlevel = 50,
+	sound = "WAC/roflcopter/internal.wav"
+})
