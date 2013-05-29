@@ -9,5 +9,6 @@ function ENT:SpawnFunction(ply, tr)
 	ent:Spawn()
 	ent:Activate()
 	ent.Owner=ply
+	self.Sounds=table.Copy(sndt)
 	return ent
 end
